@@ -81,9 +81,7 @@ body {
   .s1class span,  .s2class span{
      display:block;
   }
-  .su{
-     font-size:20px;
-  }
+ 
   .s2class{
      color:#db6e14;
      position:absolute;
